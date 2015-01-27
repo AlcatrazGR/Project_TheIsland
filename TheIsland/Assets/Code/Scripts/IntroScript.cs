@@ -9,9 +9,9 @@ public class IntroScript : MonoBehaviour {
 
 	}
 	
-	// Update is called once per frame
+	// Update is called once per frame changes
 	void Update () {
-	
+
 	}
 
 	void OnMouseEnter(){
@@ -23,11 +23,17 @@ public class IntroScript : MonoBehaviour {
 	}
 
 	void OnMouseDown(){
-		if (isQuit) {
-			Debug.Log("On quit");
-			Application.Quit ();
-		} else {
-			// Application.LoadLevel(1); Make sure that level "1" is located in your build settings. You can also change the 1 with a name of your scene.
+		Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+		RaycastHit hit;
+		if (Physics.Raycast (ray, out hit, 100)) {
+
+			if (hit.transform.gameObject.name.Equals ("Exit")) {
+				Application.Quit();
+			} else if (hit.transform.gameObject.name.Equals ("Play")) {
+				Application.LoadLevel(1); 
+				//Make sure that level "1" is located in your build settings. You can also change the 1 with a name of your scene.
+			}
+
 		}
 
 	}
