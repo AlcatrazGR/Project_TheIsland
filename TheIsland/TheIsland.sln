@@ -7,6 +7,8 @@ Project("{EB17F482-0248-614E-B2B8-1F266CC9DAC7}") = "TheIsland", "Assembly-CShar
 EndProject
 Project("{EB17F482-0248-614E-B2B8-1F266CC9DAC7}") = "TheIsland", "Assembly-CSharp-Editor.csproj", "{D7F0BBC4-78AA-6DA2-A720-75D471968239}"
 EndProject
+Project("{EB17F482-0248-614E-B2B8-1F266CC9DAC7}") = "TheIsland", "Assembly-UnityScript-firstpass.unityproj", "{77537FF1-2A84-A4ED-DB9A-CC974EB6962D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,11 +27,15 @@ Global
 		{D7F0BBC4-78AA-6DA2-A720-75D471968239}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7F0BBC4-78AA-6DA2-A720-75D471968239}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7F0BBC4-78AA-6DA2-A720-75D471968239}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77537FF1-2A84-A4ED-DB9A-CC974EB6962D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77537FF1-2A84-A4ED-DB9A-CC974EB6962D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77537FF1-2A84-A4ED-DB9A-CC974EB6962D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77537FF1-2A84-A4ED-DB9A-CC974EB6962D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-																GlobalSection(MonoDevelopProperties) = preSolution
+																			GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1
