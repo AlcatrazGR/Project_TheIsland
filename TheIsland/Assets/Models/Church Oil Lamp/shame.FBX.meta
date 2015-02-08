@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: 5700f2db04d377b4983f8ebd4e834b62
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Box001
+    100002: Circle001
+    100004: Circle002
+    100006: Circle034
+    100008: Circle035
+    100010: Circle036
+    100012: Line001
+    100014: Line002
+    100016: Line003
+    100018: Rectangle001
+    100020: Rectangle002
+    100022: Rectangle003
+    100024: //RootNode
+    100026: Shape001
+    100028: Shape002
+    100030: Shape003
+    100032: Star001
+    100034: Torus001
+    100036: Torus002
+    400000: Box001
+    400002: Circle001
+    400004: Circle002
+    400006: Circle034
+    400008: Circle035
+    400010: Circle036
+    400012: Line001
+    400014: Line002
+    400016: Line003
+    400018: Rectangle001
+    400020: Rectangle002
+    400022: Rectangle003
+    400024: //RootNode
+    400026: Shape001
+    400028: Shape002
+    400030: Shape003
+    400032: Star001
+    400034: Torus001
+    400036: Torus002
+    2300000: Box001
+    2300002: Circle001
+    2300004: Circle002
+    2300006: Circle034
+    2300008: Circle035
+    2300010: Circle036
+    2300012: Line001
+    2300014: Line002
+    2300016: Line003
+    2300018: Rectangle001
+    2300020: Rectangle002
+    2300022: Rectangle003
+    2300024: Star001
+    2300026: Torus001
+    2300028: Torus002
+    3300000: Box001
+    3300002: Circle001
+    3300004: Circle002
+    3300006: Circle034
+    3300008: Circle035
+    3300010: Circle036
+    3300012: Line001
+    3300014: Line002
+    3300016: Line003
+    3300018: Rectangle001
+    3300020: Rectangle002
+    3300022: Rectangle003
+    3300024: Star001
+    3300026: Torus001
+    3300028: Torus002
+    4300000: Line001
+    4300002: Line002
+    4300004: Circle001
+    4300006: Line003
+    4300008: Circle002
+    4300010: Star001
+    4300012: Torus001
+    4300014: Rectangle001
+    4300016: Rectangle002
+    4300018: Rectangle003
+    4300020: Box001
+    4300022: Torus002
+    4300024: Circle034
+    4300026: Circle035
+    4300028: Circle036
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
